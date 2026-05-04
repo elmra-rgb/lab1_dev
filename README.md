@@ -10,7 +10,7 @@ Une application Android simple permettant d'afficher un message Toast temporaire
 
 | Écran principal | Incrémentation + Toast |
 |----------------|------------------------|
-| <img src="pic1.png" width="200"> | <img src="pic2.png" width="200"> |
+| <img src="screens/pic1.png" width="200"> | <img src="screens/pic2.png" width="200"> |
 
 ## Fonctionnalités
 
