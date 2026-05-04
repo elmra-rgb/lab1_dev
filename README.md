@@ -1,7 +1,3 @@
-Voici le fichier README corrigé sans la mention des screenshots dans la structure et sans la note :
-
----
-
 # LAB 1 – HelloToast : Manipuler les composants et les événements 🍞
 
 ## Aperçu de l'application
